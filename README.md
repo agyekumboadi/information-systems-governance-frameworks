@@ -4,10 +4,10 @@ This repository provides evidence of my applied Information Systems Governance c
 
 It is included in my Tech Nation evidence pack as a verifiable technical record of governance thinking translated into operational controls and documentation.
 
-## Tech Nation evidence snapshot (release)
+## Evidence snapshot (release)
 
-Stable verification point for assessors: **v1.0-tech-nation**  
-Release link: https://github.com/agyekumboadi/information-systems-governance-frameworks/releases/tag/v1.0-tech-nation
+Stable verification point for assessors: **v1.0-verfication-snapshot**  
+Release link: https://github.com/agyekumboadi/information-systems-governance-frameworks/releases/tag/v1.0-verfication-snapshot
 
 ## What this repository proves
 
@@ -32,7 +32,7 @@ Note: organisation-specific sensitive information is excluded. The focus is on g
 2. Review diagrams and workflow evidence showing how governance is applied to operational systems.
 3. Confirm the repository structure and documentation quality via README and committed artefacts.
 
-## Related Tech Nation evidence documents
+## Evidence documents
 
 This repository supports:
 - TN_Evidence_03 – IS Governance and GDPR Compliance Case Study
