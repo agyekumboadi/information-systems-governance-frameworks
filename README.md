@@ -32,12 +32,10 @@ Note: organisation-specific sensitive information is excluded. The focus is on g
 2. Review diagrams and workflow evidence showing how governance is applied to operational systems.
 3. Confirm the repository structure and documentation quality via README and committed artefacts.
 
-## Evidence documents
+## Related documentation
 
-This repository supports:
-- TN_Evidence_03 – IS Governance and GDPR Compliance Case Study
-- TN_Evidence_01 – GitHub Portfolio Overview (navigation)
-- Referee cross-references (where applicable)
+This repository is part of my wider portfolio on governance, risk, and security-aware delivery in regulated environments.
+
 
 ## Contact
 
