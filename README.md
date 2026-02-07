@@ -7,7 +7,7 @@ It is included in my Tech Nation evidence pack as a verifiable technical record 
 ## Tech Nation evidence snapshot (release)
 
 Stable verification point for assessors: **v1.0-tech-nation**  
-Release link (add after publishing): https://github.com/agyekumboadi/information-systems-governance-frameworks/releases/tag/v1.0-tech-nation
+Release link: https://github.com/agyekumboadi/information-systems-governance-frameworks/releases/tag/v1.0-tech-nation
 
 ## What this repository proves
 
