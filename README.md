@@ -12,10 +12,10 @@ Release link: https://github.com/agyekumboadi/information-systems-governance-fra
 ## What this repository proves
 
 This work demonstrates how I:
-1. identify governance and security risks in real operational workflows
-2. map risks to practical controls, policies, and accountability structures
-3. align controls to GDPR principles and regulated practice expectations
-4. document improvements clearly for verification by non-technical stakeholders
+1. Identify governance and security risks in real operational workflows
+2. Map risks to practical controls, policies, and accountability structures
+3. Align controls to GDPR principles and regulated practice expectations
+4. Document improvements clearly for verification by non-technical stakeholders
 
 ## Evidence included in this repository
 
