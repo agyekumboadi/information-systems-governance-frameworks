@@ -1,41 +1,42 @@
 # Information Systems Governance Frameworks (Regulated UK Environment)
 
-This repository provides evidence of my applied Information Systems Governance capability in a regulated operational environment, with a focus on GDPR-aligned controls, risk management, auditability, and practical governance improvements.
+This repository demonstrates applied Information Systems Governance work in a regulated operational context, with emphasis on GDPR-aligned controls, risk management, auditability, and practical governance improvements.
 
-It is included as a verifiable technical record of IS governance case study translated into operational controls and documentation.
+The artefacts are presented as a transparent, reviewable record of governance analysis translated into operational controls and documentation. Organisation-specific sensitive details are excluded.
 
-## Evidence snapshot (release)
+## Verification snapshot (release)
 
-Stable verification point for assessors: **v1.0-verfication-snapshot**  
-Release link: https://github.com/agyekumboadi/information-systems-governance-frameworks/releases/tag/v1.0-verfication-snapshot
+A stable snapshot of this repository (structure + artefacts) is available here:
 
-## What this repository proves
+Tag: **v1.0-verification-snapshot**  
+Release: https://github.com/agyekumboadi/information-systems-governance-frameworks/releases/tag/v1.0-verification-snapshot
 
-This work demonstrates how I:
-1. Identify governance and security risks in real operational workflows
-2. Map risks to practical controls, policies, and accountability structures
-3. Align controls to GDPR principles and regulated practice expectations
-4. Document improvements clearly for verification by non-technical stakeholders
+## What this repository demonstrates
 
-## Evidence included in this repository
+This work shows my ability to:
+1. identify governance and operational risks across real workflows and systems usage
+2. map risks to practical controls, policies, and accountability structures
+3. align controls to GDPR principles and regulated environment expectations
+4. document improvements clearly so non-technical stakeholders can verify and act on them
 
-This repo contains governance evidence such as:
-- a structured governance analysis and findings
-- practical controls and improvement recommendations
-- supporting diagrams or screenshots where appropriate
+## Repository structure
 
-Note: organisation-specific sensitive information is excluded. The focus is on governance methods, control thinking, and auditable documentation.
+- `evidence/report/` contains the case study report (PDF)
+- `evidence/slides/` contains the supporting slide deck (PDF)
+- `docs/` contains supporting materials (for example: diagrams or notes), where applicable
+
+## Key evidence artefacts
+
+Report (PDF): `evidence/report/IS_Governance_Case_Study_Report.pdf`  
+Slides (PDF): `evidence/slides/IS_Governance_Framework_Slides.pdf`
+
+If file names change, the latest versions can always be found inside the `evidence/` folder.
 
 ## How to verify quickly
 
-1. Start with the report artefact(s) in this repository (PDF / slides if included).
-2. Review diagrams and workflow evidence showing how governance is applied to operational systems.
-3. Confirm the repository structure and documentation quality via README and committed artefacts.
-
-## Related documentation
-
-This repository is part of my wider portfolio on governance, risk, and security-aware delivery in regulated environments.
-
+1. Open the report in `evidence/report/` and review the governance analysis, risks, and control recommendations.
+2. Open the slides in `evidence/slides/` for a high-level summary of the same work.
+3. Confirm consistency across report and slides, and verify the repository structure and documentation.
 
 ## Contact
 
