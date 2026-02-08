@@ -9,4 +9,4 @@ What the report demonstrates:
 - clear improvement recommendations grounded in real operational workflows
 
 File in this folder:
-- `IS_Governance_Case_Study_Report_SamuelAgyekum.pdf`
+- `IS_Governance_Case_Study_Report.pdf`
