@@ -2,7 +2,7 @@
 
 This repository provides evidence of my applied Information Systems Governance capability in a regulated operational environment, with a focus on GDPR-aligned controls, risk management, auditability, and practical governance improvements.
 
-It is included in my Tech Nation evidence pack as a verifiable technical record of governance thinking translated into operational controls and documentation.
+It is included as a verifiable technical record of IS governance case study translated into operational controls and documentation.
 
 ## Evidence snapshot (release)
 
